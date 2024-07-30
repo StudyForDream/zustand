@@ -15,7 +15,8 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Let's study Zustand!
+          주스텐드를 공부해 보자!
         </a>
       </header>
     </div>
