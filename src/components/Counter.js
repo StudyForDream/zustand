@@ -1,4 +1,4 @@
-import { userCounterStore } from "../store";
+import { userCounterStore } from "../store/useCounterStore";
 
 
 export default function Counter() {
